@@ -31,6 +31,8 @@
       en een korte sluiting met knoopjes aan de voorkant. De polo kent zijn oorsprong in de vrijetijdskleding
       van de hogere sociale klassen en wordt nog altijd beschouwd als ietwat geklede vrijetijdskleding.</p>
     </br>
+    <p class="prijs"><strong><I>€28,99</I></strong></p>
+  </br>
     <fieldset class="maten">
     <label><input type="radio" name="Maat" value="S"> S </label>
     <label><input type="radio" name="Maat" value="M"> M </label>

@@ -102,10 +102,18 @@ input{
 	cursor: pointer;
 	text-align: center;
 }
-
+.prijs{
+  float: inherit;
+}
+/* Phone size */
 @media screen and (max-width: 600px)
 {
 
-  
+  .container{
+  	margin-top: 5px;
+  	display: grid;
+  	grid-template-columns: 1fr;
+  	grid-gap: 10px;
+  }
 
 }
