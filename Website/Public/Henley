@@ -10,9 +10,9 @@
 </head>
 <nav>
 	<ul>
-		<a href="index.php"><img src="afbeeldingen/logo/Greed.svg" alt="Het logo van de website" class="logo"></a>
+		<a href="#"><img src="afbeeldingen/logo/Greed.svg" alt="Het logo van de website" class="logo"></a>
 		<li>
-		<a href="index.php">Home</a>
+		<a href="#">Home</a>
 	  </li>
 		<li>
 		<a href="index.php">Shirts</a>

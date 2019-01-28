@@ -2,12 +2,12 @@
 
 <nav>
 	<ul>
-		<a href="#"><img src="afbeeldingen/logo/Greed.svg" alt="Het logo van de website" class="logo"></a>
+		<a href="index.php"><img src="afbeeldingen/logo/Greed.svg" alt="Het logo van de website" class="logo"></a>
 		<li>
-		<a href="#">Home</a>
+		<a href="index.php">Home</a>
 	  </li>
 		<li>
-		<a href="#">Shirts</a>
+		<a href="index.php">Shirts</a>
 		</li>
 	</ul>
 </nav>
@@ -24,7 +24,7 @@
 	<h3><strong>Henley</strong></h3>
 	<p class="prijs"> <I>€14,99</I> </p>
 	<p> Envy - Henley Round shirt</p>
-	<input type="button" name="Buy it" value="Buy It">
+	<a href="Henley.php"><input type="button" name="Buy it" value="Buy It"></a>
 </section>
 <section>
 	<img src="afbeeldingen/Slim.png" alt="foto van een Slim fit shirt">

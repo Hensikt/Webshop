@@ -22,14 +22,12 @@
 
 <div class="container">
   <section>
-  	<img src="afbeeldingen/Polo.png" alt="foto van een Polo shirt">
+  	<img src="afbeeldingen/Henley.jpg" alt="foto van een Henley shirt">
   </section>
   <section>
-    <h3><strong>Polo</strong></h3>
-  	<p>Greed - Polo shirt</p>
-    <p>Een poloshirt of kortweg polo is een kledingstuk met korte mouwen en een kraag zoals dat van een overhemd
-      en een korte sluiting met knoopjes aan de voorkant. De polo kent zijn oorsprong in de vrijetijdskleding
-      van de hogere sociale klassen en wordt nog altijd beschouwd als ietwat geklede vrijetijdskleding.</p>
+    <h3><strong>Henley</strong></h3>
+  	<p> Envy - Henley Round shirt</p>
+    <p> Een Henley type T-shirt is een shirt met lange mouwen knoopjes bij de ronde hals.</p>
     </br>
     <p class="prijs"><strong><I>€28,99</I></strong></p>
   </br>
