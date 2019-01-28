@@ -1,0 +1,167 @@
+/* Hoofd pagina / Grid */
+body{
+	margin: 0;
+}
+
+.container{
+	margin-top: 5px;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 10px;
+}
+nav{
+	background-color: #f3d500;
+}
+img.logo {
+	height: 6em;
+	padding-left: 2em;
+}
+/* .Template{
+display: grid;
+grid-template-columns: repeat(4, 1fr);
+grid-template-rows: repeat(10, 5vw); /* viewport width */
+/*grid-gap: 1.5rem;
+} */
+section{
+	text-align: center;
+}
+.prijs{
+	float: right;
+	padding-right: 2.5em;
+
+}
+p{
+	text-align: left;
+	padding-left: 2.3em;
+	margin: 0;
+}
+h3{
+	text-align: left;
+	padding-left: 2em;
+	margin: 0;
+}
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	height: 6em;
+	overflow: hidden;
+	background-color: #f3d500;
+}
+ li {
+	float: right;
+}
+ li a {
+	display: block;
+	color: black;
+	text-align: center;
+	padding: 2.4em 1em;
+	text-decoration: none;
+}
+
+li a:hover:not(.active) {
+	background-color: gray;
+}
+input {
+  background-color: white;
+  border: 2px solid #f6d500;
+  border-radius: 12px;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  -webkit-transition-duration: 0.4s;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  text-align: center;
+}
+input:hover{
+	background-color: #f3d500;
+}
+/* Mobiel grote / Hoofd pagina */
+@media screen and (max-width: 600px)
+{
+	body{
+		margin: 0;
+	}
+
+	.container{
+		margin-top: 5px;
+		display: grid;
+		grid-template-columns: 1fr;
+		grid-gap: 10px
+	}
+
+	nav{
+		background-color: #f3d500;
+
+	}
+	img.logo {
+		height: 6em;
+		padding-left: 2em;
+	}
+	ul {
+	  list-style-type: none;
+	  margin: 0;
+	  padding: 0;
+	  height: 6em;
+	  overflow: hidden;
+	  background-color: #f3d500;
+	}
+	 li {
+		float: right;
+	}
+	 li a {
+	  display: block;
+	  color: black;
+	  text-align: center;
+	  padding: 2.4em 1em;
+	  text-decoration: none;
+	}
+
+	li a:hover:not(.active) {
+	  background-color: gray;
+	}
+	section{
+		text-align: center;
+		padding-top: 2em;
+	}
+	.prijs{
+		float: right;
+		padding-right: 2.5em;
+
+	}
+	p{
+		text-align: left;
+		padding-left: 2.3em;
+		margin: 0;
+	}
+	h3{
+		text-align: left;
+		padding-left: 2em;
+		margin: 0;
+	}
+
+	input{
+		background-color: white;
+		border: 2px solid #f6d500;
+	  border-radius: 12px;
+	  color: black;
+	  padding: 15px 32px;
+	  text-align: center;
+	  text-decoration: none;
+	  display: inline-block;
+	  font-size: 16px;
+		-webkit-transition-duration: 0.4s;
+	  transition-duration: 0.4s;
+		cursor: pointer;
+		text-align: center;
+	}
+	input:hover{
+		background-color: #f3d500;
+	}
+
+
+}
